@@ -11,3 +11,5 @@ fwconfig - ip tables firewall rules BASH script, lock everything down then add s
 chmac - change the MAC address of an interface
 
 wifideauth - perform a deauth attack on a wifi device
+
+shell - a simple TCP bind shell written in Python 2.7
